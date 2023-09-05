@@ -2,7 +2,7 @@ I've been feeling like sharing some of my thoughts and findings for quite a long
 
 So, here it is:<br>
 
-1. [Setting up `Environment.CurrentDirectory` in Powershell Cmdlets]()<br>
+1. [Setting up `Environment.CurrentDirectory` in Powershell Cmdlets](https://github.com/En3Tho/MicroBlog/blob/main/1.%20PowerShell_Environment_CurrentDirectory.md)<br>
 *- Just another of these small things you're not prepared for.*
 
 <br>
