@@ -5,11 +5,16 @@ So, here it is:<br>
 1. [Setting up `Environment.CurrentDirectory` in Powershell Cmdlets](https://github.com/En3Tho/MicroBlog/blob/main/1.%20PowerShell_Environment_CurrentDirectory.md)<br>
 *- Just another of these small things you're not prepared for.*
 
+2. [Suspending games when screen goes off](https://github.com/En3Tho/MicroBlog/blob/main/2.%20Suspend_Games_When_Display_Is_Off.md)<br>
+*- Please for god sake just stop already.*
+
 <br>
 
 Possible future topics:
 1. [Why I love `F# Computation Expressions`.]()<br>
 *- CE's for collections, code generation, `Blazor` and more*
+
+
 
 2. [`.Net` -> `Rust`. Why I think .Net is a really good starting option.]()<br>
 *- `Borrow Checker` is **really** cool. But so is `Garbage Collector`. Pick a right one for your needs.*
